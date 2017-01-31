@@ -8,7 +8,7 @@ So, surprisingly, we can learn a lot about communicating with computers from hum
 
 But seriously, my goal in writing this is not just to make it possible for newbies to understand my favorite paradigm. It's also to allude to the potential that will arise once we use machine learning to create a truly universal human-computer API. The singularity doesn't look a damn thing like the sci-fi movies.
 
-## Who is this book for?
+## Who is this tutorial for?
 This work aims to be a practical introduction to functional programming concepts for the average web developer with a basic command of how to use JavaScript, but maybe a little confusion about what goes on under the hood. We'll be using Node.js and ES6 in the simplest configuration possible: just running files from the terminal.
 
 I'd feel remiss if I didn't mention that you should probably practice TDD in general, but this tutorial isn't about getting right answers or getting tests to pass. It's about playing with code so that we understand it better.
